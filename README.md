@@ -1,6 +1,8 @@
 # Pizza-Sales-Dashboard
 Data Analyst,Pizza Sales Performance Dashboard, MS-Power BI   Collected and cleaned CSV data for accurate formatting. - Imported data into MySQL database. ● Executed data queries for key metrics. ● Created interactive dashboards in Power BI for sales analysis.
 Its an overview of the process I followed to analyze pizza sales performance using Excel, MySQL, and Power BI. This process involves several steps, from data cleaning and importing to database querying and dashboard creation. Let me summarize the steps you’ve mentioned:
+![Home Page dash](https://github.com/SanDev2021/Pizza-Sales-Dashboard/assets/57155806/466254f9-a729-4ec5-93e1-43e9fd4b72cd)
+![WorstBest seller Page](https://github.com/SanDev2021/Pizza-Sales-Dashboard/assets/57155806/0063c440-7105-4cc8-8b15-f080ee85fada)
 
 1. Data Collection and Cleaning in Excel:
 – Pizza sales performance data was collected in CSV format.
