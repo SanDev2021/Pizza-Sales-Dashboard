@@ -38,6 +38,3 @@ Dashboard Name: Worst and Best Seller Pizza
 This dashboard streamlines pizza sales analysis, offering quick insights into best and worst performers. Cards and visually engaging bar charts, enriched with color gradients, aid users in understanding sales trends effectively.
 
 Overall, project process demonstrates a thorough analysis of pizza sales performance, starting from data collection, cleaning, and MySQL querying, and culminating in the creation of insightful Power BI dashboards. This approach allows for better understanding and decision-making based on the sales data.
-
-Screenshots of the project:
-
